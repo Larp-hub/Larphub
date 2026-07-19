@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Larp-hub/J/refs/heads/main/p"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Larp-hub/test/refs/heads/main/test"))()
